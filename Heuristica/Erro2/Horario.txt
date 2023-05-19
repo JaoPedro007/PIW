@@ -1,0 +1,2 @@
+Se por exemplo tivermos um agendamento para o dia 18/05/2023 às 06:00h, caso seja necessário reagendar para dia 19/05/2023 o sistema não permite selecionar a hora 06:00 por mais que no dia 19/05/2023 tenha esse horário disponível
+http://18.223.41.13/inicio

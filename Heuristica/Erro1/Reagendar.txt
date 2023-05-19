@@ -1,0 +1,2 @@
+Não é possível realizar o reagendamento de uma aula, apresenta um erro na tela
+http://18.223.41.13/inicio
